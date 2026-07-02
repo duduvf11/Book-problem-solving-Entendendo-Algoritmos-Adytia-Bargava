@@ -1,4 +1,4 @@
-# Exercices Resolution from Big O Notation book chapther
+# Exercises Resolution from Big O Notation book chapter
 
 ## 1.3
 
